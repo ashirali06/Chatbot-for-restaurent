@@ -1,0 +1,36 @@
+{
+    "Main Course": [
+        {
+            "name": "Chicken Biryani",
+            "price": 12.99,
+            "description": "Aromatic rice with spiced chicken",
+            "available": true
+        },
+        {
+            "name": "Butter Chicken",
+            "price": 11.5,
+            "description": "Chicken in creamy tomato sauce",
+            "available": true
+        },
+        {
+            "name": "Lamb Rogan Josh",
+            "price": 13.99,
+            "description": "Tender lamb in spicy curry",
+            "available": true
+        }
+    ],
+    "Drinks": [
+        {
+            "name": "Mango Lassi",
+            "price": 3.99,
+            "description": "Sweet yogurt drink with mango",
+            "available": true
+        },
+        {
+            "name": "Masala Chai",
+            "price": 2.5,
+            "description": "Spiced tea",
+            "available": true
+        }
+    ]
+}
